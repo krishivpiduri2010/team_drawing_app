@@ -5,6 +5,5 @@ from constants import *
 
 
 class Player:
-    def __init__(self, username):
-        self.username = username
+    def __init__(self):
         self.selected_color = WHITE
